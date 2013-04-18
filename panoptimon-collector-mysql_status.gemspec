@@ -1,6 +1,6 @@
 Gem::Specification.new { |gem|
   gem.name = 'panoptimon-collector-mysql_status'
-  gem.version = '0.0.1'
+  gem.version = '0.1.0'
   gem.summary = 'collect information from MySQL'
   gem.description = 'collect information from MySQL for use by panoptimon'
   gem.authors = ['Eric Wilhelm']
